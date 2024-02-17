@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Настройки</string>
+    <string name="menu">Меню</string>
+    <string name="settings_notifications">Настройки уведомлений</string>
+    <string name="account_main_currency">Основная валюта аккаунта</string>
+    <string name="ruble">Российский рубль</string>
+    <string name="app_language">Язык приложения</string>
+    <string name="russian">Русский</string>
+    <string name="color_scheme">Цветовая схема</string>
+    <string name="system">Системная</string>
+    <string name="period_start">Начало периода(день месяца)</string>
+    <string name="first">Первый</string>
+    <string name="operations_sms">Операции из SMS банка</string>
+    <string name="enter_pin">Вход по Pin-коду</string>
+    <string name="fingerprint">Вход по отпечатку пальца</string>
+    <string name="link_accounts_byid">Связать аккаунты по ID</string>
+    <string name="change_account">Сменить аккаунт</string>
+    <string name="operations_export">Экспорт операций</string>
+    <string name="csv_or_xlsx">в CSV или XLSX</string>
+    <string name="data_drop">Сброс данных</string>
+    <string name="accounts_operations_deleted">Счета и операции будут удалены</string>
+
+    <string name="user">Ivan2004</string>
+    <string name="user_email">Ivan2004@mail.ru</string>
+    <string name="acess_by_id">Совместный доступ по ID</string>
+    <string name="category1">Категории расходов</string>
+    <string name="category2">Категории доходов</string>
+    <string name="sms_journal">Журнал SMS</string>
+    <string name="scan_qr_code">Сканировать QR-код</string>
+    <string name="help">Помощь</string>
+    <string name="operations">Операции</string>
+    <string name="founds">Счета</string>
+    <string name="analysis">Аналитика</string>
+    <string name="els">Ещё</string>
+</resources>
